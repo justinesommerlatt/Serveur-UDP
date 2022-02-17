@@ -1,5 +1,5 @@
 # Serveur-UDP
-Travail de Réseau, serveur UDP
+Travail de Réseau, Master 1 informatique, serveur UDP
 
 Sujet de TP réalisé en intégralité (question 6 incluse)
 
